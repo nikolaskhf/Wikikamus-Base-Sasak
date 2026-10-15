@@ -39,25 +39,24 @@ Seperti yang sebelumnya disebutkan, Anda dapat memasukkan entri dengan memasukka
 Untuk format dalam WikiKamus sendiri, kita akan menggunakan format yang direkomendasikan pada proyek ini, yaitu sebagai berikut. Untuk mempelajari lebih lanjut sintaks Wiki, silakan cek [halaman berikut](dasar/sintaks.md).
 
 ```MediaWiki
-== {{KodeBahasa}} ==
-{{-head-|KodeBahasa}}
+== {{lang|KodeBahasa}} ==
+{{head|KodeBahasa}}
 {{-KelasKataPertama-|KodeBahasa}}
 
 # Definisi satu
-#: Contoh untuk definisi satu (opsional)
+#: {{ux|KodeBahasa|Contoh penggunaan untuk definisi satu (opsional)}}
 # Definisi dua (opsional)
-#: Contoh untuk definisi dua (opsional)
+#: {{ux|KodeBahasa|Contoh penggunaan untuk definisi dua (opsional)|Terjemahan ke contoh ke bahasa Sasak apabila contoh dalam bahasa lain}}
 # dst.
  
 {{-KelasKataKedua-|KodeBahasa}}
 # Definisi satu
-#: Contoh untuk definisi satu (opsional)
+#: {{ux|KodeBahasa|Contoh penggunaan untuk definisi satu (opsional)}}
 # Definisi dua (opsional)
-#: Contoh untuk definisi dua (opsional)
+#: {{ux|KodeBahasa|Contoh penggunaan untuk definisi dua (opsional)}}
 # dst.
 
 dst
-[[Category:HurufAwal]]
 ```
 
 Dengan keterangan sebagai berikut:
@@ -65,8 +64,6 @@ Dengan keterangan sebagai berikut:
 * `KodeBahasa`: Kode bahasa menurut ISO untuk bahasa tersebut. Misalnya, kode bahasa Indonesia adalah `id`, untuk Sasak adalah `sas`, untuk Jawa adalah `jv`, untuk Inggris adalah `en`, dan lain sebagainya. Silakan lihat beberapa daftar kode bahasa yang sering digunakan dalam WikiKamus base Sasak, silakan lihat bagian [Kode bahasa](nyunting.md#kode_bahasa) di bawah.
 
 * `KelasKataPertama` dan `KelasKataKedua` adalah kode kelas kata dari kata yang sedang disunting. Misalnya, untuk kata benda adalah `nom` atau `n`, kata kerja atau verba adalah `v` atau `verb`, kata sifat atau adjektiva adalah `a` atau `adj`, dan sebagainya. Lihat daftar kelas kata yang sudah dimasukkan ke dala WikiKamus base Sasak pada bagian [Kelas Kata](nyunting.md#kelas_kata) di bawah.
-
-* `HurufAwal` adalah huruf pertama pada kata yang mau disunting (pastikan huruf kapital).
 
 Sebagai contoh, kita akan membuat kata *baloq* atau buaya pada WikiKamus base Sasak.
 
@@ -80,18 +77,15 @@ Sebagai contoh, kita akan membuat kata *baloq* atau buaya pada WikiKamus base Sa
 
 5. Untuk contoh, definisi kedua, dan kelas kata kedua saya tidak masukkan karena opsional. Jika ada, Anda dapat tambahkan.
 
-6. Kata ***baloq*** dimulai dengan huruf B. Maka untuk kategori, saya masukkan `[[Category:B]]`.
-
 Dari penjelasan di atas, maka saya masukkan teks berikut pada kotak teks di bagian kiri pada halaman ***baloq***:
 
 ```MediaWiki
-== {{sas}} ==
+== {{lang|sas}} ==
 {{-head-|sas}}
 {{-n-|sas}}
 
 # [[réptil]] [[pélo]] haq [[mangan]] daging, biase warne ijo ato abu
 
-[[Category:B]]
 ```
 
 ![Membuat kata baloq](img/WI_WK-sas_baloq.png "Membuat kata baloq di WikiKamus base Sasak")
@@ -135,14 +129,6 @@ Berikut beberapa kode bahasa yang akan sering digunakan di WikiKamus base Sasak:
 * `jv` untuk bahasa Jawa
 
 * `en` untuk bahasa Inggris
-
-Jika Anda menggunakan kode bahasa, lalu terdapat tampilan seperti di bawah (dalam contoh, menggunakan kode bahasa Prancis, `fr`), Anda dapat membuat halaman untuk kode bahasa tersebut.
-
-![Kode bahasa belum ada](img/WI_WK-sas_belumadabahasa.png "Kode bahasa Prancis belum ada")
-
-Caranya adalah dengan klik tautan merah tersebut, lalu masukkan nama bahasanya. Misalnya, untuk `fr` adalah bahasa Prancis. Maka saya masukkan "base Prancis". Setelah itu, silakan publikasikan.
-
-![Membuat kode bahasa Prancis](img/WI_WK-sas_buatBahasa.png "Membuat kode bahasa Prancis")
 
 ## Kelas kata
 
