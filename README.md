@@ -1,5 +1,5 @@
-# Dokumentasi WikiKamus base Sasak
+# Dokumentasi Wikikamus base Sasak
 
-Dokumentasi sederhana yang dibuat untuk memberikan gambaran dasar cara berkontribusi di [WikiKamus base Sasak](https://incubator.wikimedia.org/wiki/Wt/sas).
+Dokumentasi sederhana yang dibuat untuk memberikan gambaran dasar cara berkontribusi di [Wikikamus base Sasak](https://incubator.wikimedia.org/wiki/Wt/sas).
 
-Untuk menuju situs dokumentasi, silakan cek [halaman berikut](https://nikolaskhf.github.io/WikiKamus-Base-Sasak/).
+Untuk menuju situs dokumentasi, silakan cek [halaman berikut](https://nikolaskhf.github.io/Wikikamus-Base-Sasak/).
