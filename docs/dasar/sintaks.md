@@ -2,7 +2,7 @@
 
 Halaman ini hanya akan memberikan informasi dasar tentang sintaks yang digunakan pada proyek Wikimedia. Untuk informasi lebih lanjut, Anda dapat merujuk pada halaman bantuan proyek Wikimedia, misalnya Halaman Bantuan pada [Wikikamus bahasa Indonesia](https://id.wiktionary.org/wiki/Bantuan:Penyuntingan) atau [Wikipedia bahasa Indonesia](https://id.wikipedia.org/wiki/Wikipedia:Markah_wiki).
 
-Dalam WikiKamus base Sasak, beberapa yang perlu Anda ketahui hanyalah **Judul**, **Templat**, **Daftar**, dan **Tautan**.
+Dalam Wikikamus base Sasak, beberapa yang perlu Anda ketahui hanyalah **Judul**, **Templat**, **Daftar**, dan **Tautan**.
 
 ## Judul dan sub-judul halaman
 
@@ -22,7 +22,7 @@ Sub judul pertama (dengan satu sama dengan) tidak dapat digunakan karena telah d
 
 ## Templat
 
-Templat pada proyek Wikimedia dapat mempermudah penyuntingan, khususnya untuk sesuatu yang sering dipakai. Misalnya, pada WikiKamus base Sasak, terdapat templat-templat untuk kelas kata dari suatu kata, seperti kata benda, kata kerja, dan lain sebagainya. Karena hal tersebut akan sering dipakai, maka kami telah menuliskan templat yang dapat digunakan. Untuk menggunakan templat, cukup gunakan dua kurung kurawal (`{{ }}`) dengan nama templat di dalam, seperti berikut:
+Templat pada proyek Wikimedia dapat mempermudah penyuntingan, khususnya untuk sesuatu yang sering dipakai. Misalnya, pada Wikikamus base Sasak, terdapat templat-templat untuk kelas kata dari suatu kata, seperti kata benda, kata kerja, dan lain sebagainya. Karena hal tersebut akan sering dipakai, maka kami telah menuliskan templat yang dapat digunakan. Untuk menggunakan templat, cukup gunakan dua kurung kurawal (`{{ }}`) dengan nama templat di dalam, seperti berikut:
 
 ```MediaWiki
 {{Nama Templat}}
@@ -36,7 +36,7 @@ Misalnya, untuk nama templat kelas kata *kata benda* adalah `-n-`, maka untuk me
 
 ## Daftar
 
-Dalam WikiKamus base Sasak, kita menggunakan daftar nomor sebagai definisi dari kata tersebut. Untuk membuat daftar, Anda cukup tambahkan tanda pagar (`#`) untuk daftar nomor dan tanda bintang (`*`) untuk daftar tak bernomor. Misalnya:
+Dalam Wikikamus base Sasak, kita menggunakan daftar nomor sebagai definisi dari kata tersebut. Untuk membuat daftar, Anda cukup tambahkan tanda pagar (`#`) untuk daftar nomor dan tanda bintang (`*`) untuk daftar tak bernomor. Misalnya:
 
 ```MediaWiki
 # Satu
@@ -72,7 +72,7 @@ Misalnya, untuk menautkan halaman Google pada teks "Halaman Google", Anda dapat 
 [https://google.com Halaman Google]
 ```
 
-Untuk menautkan tautan dalam proyek Wikimedia, Anda dapat menggunakan dua kurung kotak. Misalnya, Anda ingin menautkan halaman "aiq" pada halaman WikiKamus base Sasak, Anda dapat menggunakan sintaks berikut:
+Untuk menautkan tautan dalam proyek Wikimedia, Anda dapat menggunakan dua kurung kotak. Misalnya, Anda ingin menautkan halaman "aiq" pada halaman Wikikamus base Sasak, Anda dapat menggunakan sintaks berikut:
 
 ```MediaWiki
 [[aiq]]
