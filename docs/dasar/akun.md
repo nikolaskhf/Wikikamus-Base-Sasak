@@ -6,11 +6,11 @@ Jika Anda belum memiliki akun, silakan lihat pada cara membuat akun pada bagian 
 
 ## Membuat akun Wikimedia
 
-Anda dapat membuka halaman proyek Wikimedia mana pun. Misalnya, di sini saya menggunakan halaman [Incubator WikiKamus base Sasak](https://incubator.wikimedia.org/wiki/Wt/sas).
+Anda dapat membuka halaman proyek Wikimedia mana pun. Misalnya, di sini saya menggunakan halaman [Incubator Wikikamus base Sasak](https://incubator.wikimedia.org/wiki/Wt/sas).
 
 Silakan klik pada bagian ***Create account***.
 
-![Halaman depan Incubator WikiKamus base Sasak](img/WI_WK-sas_hu_notlogin.png "Halaman depan Incubator WikiKamus base Sasak")
+![Halaman depan Incubator Wikikamus base Sasak](img/WI_WK-sas_hu_notlogin.png "Halaman depan Incubator Wikikamus base Sasak")
 
 Silakan isi kotak teks sesuai dengan bagian. Untuk ***username***, Anda tidak perlu menggunakan nama asli Anda, silakan gunakan nama pengguna yang Anda sukai. Anda disarankan untuk mengisi kolom *email address*. Selain itu, Anda juga perlu mengisi bagian CAPTCHA.
 
