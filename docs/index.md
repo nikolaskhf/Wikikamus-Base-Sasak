@@ -1,16 +1,16 @@
-# Selamat datang di dokumentasi WikiKamus base Sasak
+# Selamat datang di dokumentasi Wikikamus base Sasak
 
-Dokumentasi ini dibuat untuk membantu kontribusi pada WikiKamus base Sasak. Meskipun proyek WikiKamus base Sasak menggunakan bahasa Sasak untuk kontennya, dokumentasi ini akan menggunakan bahasa Indonesia untuk universalitas dan memastikan kebenaran informasi.
+Dokumentasi ini dibuat untuk membantu kontribusi pada Wikikamus base Sasak. Meskipun proyek Wikikamus base Sasak menggunakan bahasa Sasak untuk kontennya, dokumentasi ini akan menggunakan bahasa Indonesia untuk universalitas dan memastikan kebenaran informasi.
 
-## Apa itu WikiKamus (Wiktionary)?
+## Apa itu Wikikamus (Wiktionary)?
 
-[Wiktionary](https://wiktionary.org) atau WikiKamus dalam bahasa Indonesia adalah sebuah proyek bersama dari Wikimedia Foundations, sebuah yayasan nonprofit yang mengelola berbagai proyek bebas, seperti [Wikipedia](https://wikipedia.org), [Wikibooks](https://wikibooks.org), [Wikisource](https://wikisource.org), [WikiVoyage](https://wikivoyage.org), [Wikinews](https://wikinews.org) dan lain sebagainya. Secara sederhana, Wikikamus sangat mirip dengan Wikipedia. Namun, Wikikamus memiliki konten kamus, alih-alih ensiklopedia.
+[Wiktionary](https://wiktionary.org) atau Wikikamus dalam bahasa Indonesia adalah sebuah proyek bersama dari Wikimedia Foundations, sebuah yayasan nonprofit yang mengelola berbagai proyek bebas, seperti [Wikipedia](https://wikipedia.org), [Wikibooks](https://wikibooks.org), [Wikisource](https://wikisource.org), [WikiVoyage](https://wikivoyage.org), [Wikinews](https://wikinews.org) dan lain sebagainya. Secara sederhana, Wikikamus sangat mirip dengan Wikipedia. Namun, Wikikamus memiliki konten kamus, alih-alih ensiklopedia.
 
 Di dalam Wikikamus, pengguna dapat menemukan arti kata dalam berbagai bahasa yang dijelaskan dalam suatu bahasa spesifik. Misalnya, dalam [Wikikamus bahasa Indonesia](https://id.wiktionary.org), berbagai kata dalam berbagai bahasa akan dijelaskan atau diterjemahkan menjadi bahasa Indonesia.
 
-## Apa itu WikiKamus base Sasak?
+## Apa itu Wikikamus base Sasak?
 
-WikiKamus base Sasak adalah Wikikamus yang menggunakan bahasa Sasak dalam penjelasannya. Saat ini, sudah ada beberapa proyek Wikikamus yang ada dalam bahasa daerah di Indonesia, salah satunya adalah [Wikisastra](https://jv.wiktionary.org), yaitu Wikikamus bahasa Jawa.
+Wikikamus base Sasak adalah Wikikamus yang menggunakan bahasa Sasak dalam penjelasannya. Saat ini, sudah ada beberapa proyek Wikikamus yang ada dalam bahasa daerah di Indonesia, salah satunya adalah [Wikisastra](https://jv.wiktionary.org), yaitu Wikikamus bahasa Jawa.
 
 WIkiKamus base Sasak sendiri belum secara resmi memiliki situsnya. Hal ini, dalam kumpulan proyek Wikimedia, disebut masih di dalam *"Incubator"*. Pengguna, atau komunitas, perlu mengisi proyek tersebut sebelum dapat resmi mendapatkan situsnya sendiri, seperti Wikisastra tadi.
 
